@@ -44,3 +44,13 @@
 - ModifiedBy - string - Логин Пользователя, от имени которого этот пользователь изменён
 - RevokedOn - DateTime- Дата удаления пользователя
 - RevokedBy - string - Логин Пользователя, от имени которого этот пользователь удалён
+
+## Результат
+![2025-05-17_15-25-17](https://github.com/user-attachments/assets/a8d1fbcf-fafb-42c3-be39-a01e304a7130)
+![2025-05-17_15-25-58](https://github.com/user-attachments/assets/55e88d8d-668a-4a09-96d0-d51645a42cf5)
+![2025-05-17_15-27-41](https://github.com/user-attachments/assets/3f3aa5ba-8ba2-4df6-9dd8-9c355e3b3f43)
+![2025-05-17_15-28-19](https://github.com/user-attachments/assets/34611316-e3d2-4707-bc39-e106d33af700)
+![2025-05-17_15-28-55](https://github.com/user-attachments/assets/36c00e9e-82ee-4e15-bd98-fc0da5933123)
+![2025-05-17_15-29-28](https://github.com/user-attachments/assets/cbfd2406-4a07-4b40-a7d1-5ce6a13d61bc)
+
+
